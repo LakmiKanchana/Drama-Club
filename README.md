@@ -1,2 +1,2 @@
-# Drama - Club  
-### Web based Drama & Theater Club System For Faculty of Technological Studies in University of Vavuniya.
+🎭 Drama Club – Web Based Drama & Theater Club System
+A web-based management system designed for the Faculty of Technological Studies, University of Vavuniya, to streamline and manage drama and theater club activities.
