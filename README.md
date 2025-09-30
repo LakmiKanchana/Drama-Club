@@ -22,6 +22,7 @@ A web-based system developed for the Faculty of Technological Studies, Universit
 
 <img width="1351" height="639" alt="image" src="https://github.com/user-attachments/assets/201d8737-b562-4d8c-a7e4-081940f2616c" />
 
+
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
